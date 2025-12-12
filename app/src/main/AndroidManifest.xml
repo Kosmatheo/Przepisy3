@@ -24,10 +24,7 @@
         <activity
             android:name=".ListaPrzepisowActivity"
             android:exported="false" />
-        <activity
-            android:name=".ui.login.ListaPrzepisowActivity"
-            android:exported="false"
-            android:label="@string/title_activity_lista_przepisow" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
